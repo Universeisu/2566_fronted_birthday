@@ -11,7 +11,7 @@ function App() {
   }
   return (
       <div>
-        <h1>Woekshop 1 : Birthday List Projest</h1>
+        <h1>Workshop 1 : Birthday List Projest</h1>
         <h2>Arthittaya Kongdee</h2>
         <main>
           <section className="container">
